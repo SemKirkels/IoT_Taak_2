@@ -2,7 +2,8 @@ name: Terraform file formatting
 
 on:
   push:
-    - main
+    branches:
+      - main
 
 jobs:
   format:
