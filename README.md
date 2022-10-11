@@ -1,7 +1,7 @@
 # Blogpost IoT_Taak_2
 
 ## 1. What is infrastructure as code?
-For me infrastructure as code is all the code that manages a process. I think that infrastructure as code ensures that an application can be easily distributed an in for example docker.
+For me infrastructure as code is all the code that manages a process. I think that infrastructure as code ensures that an application can be easily distributed in for example docker.
 
 ## 2. Why do I think IaC is useful
 
